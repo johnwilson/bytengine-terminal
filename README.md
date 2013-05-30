@@ -13,6 +13,5 @@ and translated to:
 
     * Python
     * Node.js
-    * Go
     * More to come ...
     
