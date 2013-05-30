@@ -11,7 +11,7 @@ You can play with the hosted demo [here](http://terminal.bytengine.com).
 This is a sample application built for **[Bytengine](http://www.bytengine.com/ "Bytengine")**
 and translated to:
 
-    * Python
-    * Node.js
-    * More to come ...
+* Python
+* Node.js
+* More to come ...
     
