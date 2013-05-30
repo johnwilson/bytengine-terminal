@@ -1,0 +1,9 @@
+# komodo files & folders
+*.komodoproject
+.komodotools/
+
+# python pyc files
+*.pyc
+
+# Mac OS X files
+.DS_Store
